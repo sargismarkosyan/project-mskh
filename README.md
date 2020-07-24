@@ -1,3 +1,5 @@
+## Git հրամաններ
+
 git init - Ստեղծում է նոր repository
 
 git status - Ցույց է տալիս ներկայիս իրավիճակը repository-ում
