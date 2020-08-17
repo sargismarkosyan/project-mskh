@@ -14,6 +14,8 @@ git commit - Ստեղծում է commit գրանցված ֆայլերով
 git diff <file> - Ցույց է տալիս ֆայլի մեջ եղած փոփոխությունները
 
 git checkout <commit-code> - Գնում է այդ commit-ի տարբերակի վրա (այսինքն ֆայլը բերում է այն վիճակի ինչպիսին էին այդ commit-ի ժամանակ)
+  
+git checkout -b <new-branch-name> - Ստեղծում է նոր branch
 
 git remote add origin <github-repo-address> - Կցում է Github-ի repository-ին
 
