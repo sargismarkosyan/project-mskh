@@ -26,3 +26,5 @@ git pull - Քաշում է փոփոխությունները Github-ի repository
 git clone - Կլոնավորում է Github-ի repository-ին մեր համակագչի վրա
 
 git branch -D <branch-name> - Ջնջում է նշված branch-ը
+
+git rebase <branch-name> - Տանում է Ձեր ներկայիս branch-ի փոփոխությունները դնում է նշված branch-ի գլխին
